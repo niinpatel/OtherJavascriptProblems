@@ -12,4 +12,4 @@ function sqrt(n){
     }
 }
 
-// this program has a time complexity of n. for a better approach, see sqrt.js
+// this program has a time complexity of n.
